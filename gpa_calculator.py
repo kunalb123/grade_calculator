@@ -21,7 +21,7 @@ courses = []
 
 
 # output welcome text
-print "\nWelcome to Grade Calculator"
+print "\nWelcome to GPA Calculator"
 
 
 # prompt to start the program
